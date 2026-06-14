@@ -1,27 +1,3 @@
-/*
-Group 20
-OOP PROJECT
-
-Instructor: Dr Sana Aurangzeb
-    TA 1: Rayyan 
-    TA 2: Zaeem
-
-Group Members:
-    Name: Aamna Mubasher
-    Class: BCY-2A
-    Roll: 25i-2179
-
-    Name: Eashal Fatima
-    Class: BCY-2A
-    Roll: 25i-2192
-
-    Name: Hania Touqeer
-    Class: BCY-2A
-    Roll: 25i-2212
-
-*/
-
-
 #include <SFML/Graphics.hpp>
 #include <iostream>
 
